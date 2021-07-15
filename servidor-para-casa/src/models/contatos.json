@@ -10,5 +10,17 @@
     "nome": "Riri",
     "celular": "(21)983729320",
     "redesSociais": "@riri10_10"
+  },
+  {
+    "id": "3",
+    "nome": "Fifi",
+    "celular": "(21)983563210",
+    "redesSociais": "@fifi10_10"
+  },
+  {
+    "id": "4",
+    "nome": "Mimy",
+    "celular": "(21)983458920",
+    "redesSociais": "@mimy10_10"
   }
 ]
